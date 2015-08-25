@@ -1,0 +1,14 @@
+League Justice
+Leader Singapore-Smith h=1d10 b=3d8 s=3d10 d=3d10 m=2d8 f=3d10 c=2d10 +Sharp +Deadeye +Hardened-Veteran
+Leader Taiwan-Terry h=1d10 b=3d8 s=3d10 d=3d10 m=2d8 f=3d10 c=2d10 +Sharp +Deadeye +Hardened-Veteran
+Sidekick Arge h=1d8 b=3d8 s=3d8 d=2d6 m=3d8 f=2d6 c=2d6 +Athletic +Fierce
+Sidekick Mick h=1d8 b=3d8 s=3d8 d=2d6 m=3d8 f=2d6 c=2d6 +Athletic +Fierce
+Ally Enki h=1d6 b=2d6 s=2d6 d=1d6 m=1d6 f=1d6 c=1d6 +Marksman
+Ally Kazak h=1d6 b=2d6 s=2d6 d=1d6 m=1d6 f=1d6 c=1d6 +Marksman
+Ally Little-Skeet h=1d6 b=1d6 s=1d6 d=2d6 m=1d6 f=1d6 c=2d6 +Crafty
+Ally Big-Skeet h=1d6 b=1d6 s=3d6 d=2d6 m=1d6 f=1d6 c=2d6 +Crafty
+Follower Chu-Chu h=1d6 b=1d6 s=1d6 d=1d6 m=1d6 f=1d6 c=1d6 +Animal
+Follower Chop-Chop h=1d6 b=1d6 s=1d6 d=1d6 m=1d6 f=1d6 c=1d6 +Animal
+Display
+Help
+Quit

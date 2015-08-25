@@ -1,0 +1,28 @@
+1|Agile|This character’s Dodge is increased by +1 die.
+1|Animal|This character may not shoot, but adds +1d to two other skills.
+1|Clever|This character's Cunning is increased by +1 die.
+1|Fierce|This character's Brawl is increased by +1 die.
+1|Marksman|This character's Shoot is increased by +1 die.
+1|Mighty|This character's Might is increased by +1 die.
+1|Savvy|This character's Finesse is increased by +1 die.
+1|Speedy|This character my run up to 15" - instead of 12".
+2|Athletic|Once per turn, shift this character’s dice-type up when rolling for Might or Finesse.
+2|Brute|Once per turn, this character may re-roll one Brawl or Might die.
+2|Crafty|Once per turn, this character may re-roll one Dodge or Cunning die.
+2|Daredevil|Once per turn, this character receives a +1d bonus when rolling for a Peril.
+2|Eagle-Eyed|This character's close range is 12", and their long range is 48" - instead of 6" and 24".
+2|Finagler|Once per turn, shift this characters dice-type up when rolling for Finesse or Cunning.
+2|Intrepid|This character may move in any direction when they successfully dodge an attack or peril.
+2|Sharp|Once per turn, this character may re-roll one Shoot or Finesse die.
+2|Specialist|Once per turn, shift this character's dice-type up when rolling for Cunning or Might.
+2|Stealthy|This character may hide as an action - instead of a full action.
+3|Astute|This character’s Shoot and Finesse dice-type are not lowered due to injuries.
+3|Brash|This character is not limited to rushing the closest enemy.
+3|Deadeye|This character is not limited to shooting the closest enemy.
+3|Deductive|As an action for this character, you may draw one Fortune card.
+3|Hardened-Veteran|This character ignores the multiple combats penalty.
+3|Indomitable|This character may re-roll one Recovery check per turn.
+3|Muscles-of-Steel|This character's Brawl and Might dice-type are not lowered due to injuries.
+3|Shrewd|This character's Dodge and Cunning dice-type are not lowered due to injuries.
+3|Quick-Shot|Once per turn, this character may shift their shooting dice-type down to gain a +2d bonus - only against targets in close range.
+3|Quick-Strike|Once per turn, this character may shift their brawling dice-type down to gain a +2d bonus.
